@@ -1,0 +1,27 @@
+:root {
+  --animate-duration: 500ms;
+  --animate-delay: 10s;
+}
+
+img {
+  width: 70px;
+  height: 25px;
+}
+
+span {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.killer {
+  color: brown;
+}
+
+.victim {
+  color: green;
+}
+
+.container {
+  height: 200px;
+  overflow: hidden;
+}
