@@ -25,3 +25,10 @@ span {
   height: 200px;
   overflow: hidden;
 }
+
+#killfeed {
+  background-color: rgba(63, 63, 63, 0.141);
+  border-radius: 8px;
+  letter-spacing: 1px;
+  border: 1px solid black;
+}
