@@ -9,7 +9,7 @@ img {
 }
 
 span {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 700;
 }
 
@@ -27,7 +27,7 @@ span {
 }
 
 #killfeed {
-  background-color: rgba(63, 63, 63, 0.141);
+  background-color: rgba(21, 21, 21, 0.705);
   border-radius: 8px;
   letter-spacing: 1px;
   border: 1px solid black;
