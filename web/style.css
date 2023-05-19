@@ -14,11 +14,11 @@ span {
 }
 
 .killer {
-  color: brown;
+  color: rgb(255, 65, 65);
 }
 
 .victim {
-  color: green;
+  color: rgb(5, 228, 5);
 }
 
 .container {
